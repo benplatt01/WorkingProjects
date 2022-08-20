@@ -1,0 +1,8 @@
+' P.G. Wodehouse ' , ' Right Ho Jeeves ' , ' hb ' , ' Penguin ' , 10.99 , 5 , ' fiction '
+' A. Pais ',' Subtle is the Lord ' , ' pb ',' OUP ' , 12.99 , 2 , ' biography '
+'J.R.R. Tolkein' , 'The Hobbit' , 'pb' , 'Haper Collins' , 7.99 , 12 , 'fiction'
+' M. Faraday ' , ' The Chemical History of a Candle ' , ' pb ' , ' Cherokee ' , 5.99 , 1 , ' science '
+' J. Herschel ' , ' Popular Lectures ' , ' hb ',' CUP ' , 25 , 1 , ' science '
+' C.S Lewis ' , ' The Four Loves ',' pb ' , ' Fount ' , 6.99 , 7 , ' religion '
+' E. Heisenberg ' , ' Inner Exile ',' hb ' , ' Birkhauser ' , 24.95 , 1 , ' biography '
+' G.G. Stokes ' , ' Natural Theologoy ' , ' hb ' , ' Black ' , 30 , 1 , ' religion '

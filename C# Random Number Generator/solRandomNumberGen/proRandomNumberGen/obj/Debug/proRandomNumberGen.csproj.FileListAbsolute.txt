@@ -1,0 +1,7 @@
+C:\Users\Ben Platt\Desktop\Projects - Ben Platt\C# Random Number Generator\solRandomNumberGen\proRandomNumberGen\bin\Debug\proRandomNumberGen.exe.config
+C:\Users\Ben Platt\Desktop\Projects - Ben Platt\C# Random Number Generator\solRandomNumberGen\proRandomNumberGen\bin\Debug\proRandomNumberGen.exe
+C:\Users\Ben Platt\Desktop\Projects - Ben Platt\C# Random Number Generator\solRandomNumberGen\proRandomNumberGen\bin\Debug\proRandomNumberGen.pdb
+C:\Users\Ben Platt\Desktop\Projects - Ben Platt\C# Random Number Generator\solRandomNumberGen\proRandomNumberGen\obj\Debug\proRandomNumberGen.csprojAssemblyReference.cache
+C:\Users\Ben Platt\Desktop\Projects - Ben Platt\C# Random Number Generator\solRandomNumberGen\proRandomNumberGen\obj\Debug\proRandomNumberGen.csproj.CoreCompileInputs.cache
+C:\Users\Ben Platt\Desktop\Projects - Ben Platt\C# Random Number Generator\solRandomNumberGen\proRandomNumberGen\obj\Debug\proRandomNumberGen.exe
+C:\Users\Ben Platt\Desktop\Projects - Ben Platt\C# Random Number Generator\solRandomNumberGen\proRandomNumberGen\obj\Debug\proRandomNumberGen.pdb
